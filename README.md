@@ -179,9 +179,20 @@ The project focuses on AI agents, tool calling, automated research and benchmark
 
 ---
 
+### 5. Dispersy
+[GitHub Repository](https://github.com/Perry1231/Dispersy)
+AI-powered multi-agent development environment designed to coordinate specialized AI agents for software development.
+
+Dispersy uses a central coordinator to analyze user requests, break complex tasks into smaller problems, delegate them to specialized agents, and combine their results into a final solution.
+
+The platform is designed around collaborative AI agents that can independently handle different parts of the development process, such as planning, coding, debugging, testing, research, documentation, and code review.
+
+The goal is to create a flexible AI development workspace where multiple specialized agents can work together instead of relying on a single model for the entire task.
+
+---
 ## Web Development
 
-### 5. PortfolioWebsite
+### 6. PortfolioWebsite
 
 [GitHub Repository](https://github.com/Perry1231/PortfolioWebsite)
 
@@ -254,7 +265,7 @@ The project can be compiled using GCC/MinGW, MSVC or Clang and includes an autom
 
 ---
 
-### 9. LeetCode Solutions in C++
+### 8. LeetCode Solutions in C++
 
 [GitHub Repository](https://github.com/Perry1231/LeetCode-Solutions-In-C-)
 
@@ -272,7 +283,7 @@ A collection of solutions to algorithmic programming problems written in C++.
 
 ## GitHub & Developer Tools
 
-### 11. My GitHub Stats
+### 9. My GitHub Stats
 
 [GitHub Repository](https://github.com/Perry1231/My-GitHub-Stats)
 
@@ -289,7 +300,7 @@ Includes:
 
 ---
 
-### 12. GitHub Profile
+### 10. GitHub Profile
 
 [GitHub Repository](https://github.com/Perry1231/Perry1231)
 
@@ -310,7 +321,7 @@ It presents my main areas of interest:
 
 ## Learning & Open Source
 
-### 13. First Contributions
+### 11. First Contributions
 
 [GitHub Repository](https://github.com/Perry1231/FirstContributions)
 
@@ -326,7 +337,7 @@ Repository related to learning and practicing GitHub open-source contribution wo
 
 ---
 
-### 14. First Contributions
+### 12. First Contributions
 
 [GitHub Repository](https://github.com/Perry1231/first-contributions)
 
@@ -336,7 +347,7 @@ The project represents practice with collaborative development and open-source c
 
 ---
 
-### 15. Content Ops Starter
+### 13. Content Ops Starter
 
 [GitHub Repository](https://github.com/Perry1231/content-ops-starter)
 
@@ -346,7 +357,7 @@ A starter project related to content operations, development workflows and exper
 
 ## Project Collection
 
-### 16. AllProjects
+### 14. AllProjects
 
 [GitHub Repository](https://github.com/Perry1231/AllProjects)
 
