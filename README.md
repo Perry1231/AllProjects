@@ -179,21 +179,9 @@ The project focuses on AI agents, tool calling, automated research and benchmark
 
 ---
 
-### 5. Dispersy
-[GitHub Repository](https://github.com/Perry1231/Dispersy)
-
-AI-powered multi-agent development environment designed to coordinate specialized AI agents for software development.
-
-Dispersy uses a central coordinator to analyze user requests, break complex tasks into smaller problems, delegate them to specialized agents, and combine their results into a final solution.
-
-The platform is designed around collaborative AI agents that can independently handle different parts of the development process, such as planning, coding, debugging, testing, research, documentation, and code review.
-
-The goal is to create a flexible AI development workspace where multiple specialized agents can work together instead of relying on a single model for the entire task.
-
----
 ## Web Development
 
-### 6. PortfolioWebsite
+### 5. PortfolioWebsite
 
 [GitHub Repository](https://github.com/Perry1231/PortfolioWebsite)
 
